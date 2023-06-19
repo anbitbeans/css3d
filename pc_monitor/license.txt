@@ -1,0 +1,11 @@
+Model Information:
+* title:	PC monitor
+* source:	https://sketchfab.com/3d-models/pc-monitor-8a207ba273a548d68f7217d1ffe24a67
+* author:	AnnPiskacov (https://sketchfab.com/AndreaPiskacova)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "PC monitor" (https://sketchfab.com/3d-models/pc-monitor-8a207ba273a548d68f7217d1ffe24a67) by AnnPiskacov (https://sketchfab.com/AndreaPiskacova) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

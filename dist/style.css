@@ -1,0 +1,40 @@
+body {
+  color: #333;
+}
+
+p {
+  margin: 0;
+  padding: 0;
+  line-height: 1.2;
+}
+
+.css3d {
+  /* padding: 0.2em 0.5em; */
+  text-align: center;
+  width: 500px;
+  height: 230px;
+  background-color: #fff;
+}
+
+.css3d2 {
+  width: 520px;
+  height: 250px;
+background-color: #000;
+}
+
+.form{
+  padding: 16px 24px;
+  background-color: #fff;
+}
+.form_col{
+  padding-top: 10px;
+}
+.form_submit{
+  padding: 8px 32px;
+  margin-top: 20px;
+  color: #fff;
+  background-color: #0e5a76;
+  appearance: none;
+  border: none;
+  border-radius: 40px;
+}
