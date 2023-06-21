@@ -1,0 +1,11 @@
+Model Information:
+* title:	Isometric room
+* source:	https://sketchfab.com/3d-models/isometric-room-dd8f1872e42b448a8b383d06b63dd5dc
+* author:	Theo Helias (https://sketchfab.com/Theo_Helias)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Isometric room" (https://sketchfab.com/3d-models/isometric-room-dd8f1872e42b448a8b383d06b63dd5dc) by Theo Helias (https://sketchfab.com/Theo_Helias) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
